@@ -12,6 +12,7 @@ Install docker in your machine from [here](https://www.docker.com/products/docke
 
       `docker-compose up`
       
+      P.S: If above command did not work, try running `docker-compose pull` and then `docker-compose up`
       
       The docker compose file pulls the pact-broker image and also spawns up the prostgres
       DB which is used by pact-broker to store data. Dive into the compose file for 
