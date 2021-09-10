@@ -59,5 +59,7 @@ Install docker in your machine from [here](https://www.docker.com/products/docke
 Experiment with the setup changing the pacts, repeat the process and run the contract tests, they should fail.
 The best way to learn is to do !
 
+⭐️ Give the repo a star if you like the project or find this work useful !
+
 
 GOD SPEED !!
